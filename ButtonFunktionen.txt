@@ -1,0 +1,50 @@
+private void button2_Click(object sender, EventArgs e)
+{
+    FindCorrectAnswer(1, button2, button3, button4);
+
+    //if (questionAnswer[i - 1].CorrectAnswer == 1)
+    //{
+    //    button2.BackColor = Color.Green;
+    //    count++;
+    //}
+    //else
+    //{
+    //    button2.BackColor = Color.Red;
+    //}
+    //button3.Enabled = false;
+    //button4.Enabled = false;
+}
+
+private void button3_Click(object sender, EventArgs e)
+{
+    FindCorrectAnswer(2, button3, button2, button4);
+
+    //if (questionAnswer[i - 1].CorrectAnswer == 2)
+    //{
+    //    button3.BackColor = Color.Green;
+    //    count++;
+    //}
+    //else
+    //{
+    //    button3.BackColor = Color.Red;
+    //}
+    //button2.Enabled = false;
+    //button4.Enabled = false;
+}
+
+private void button4_Click(object sender, EventArgs e)
+{
+    FindCorrectAnswer(3, button4, button2, button3);
+
+    //if (questionAnswer[i - 1].CorrectAnswer == 3)
+    //{
+    //    button4.BackColor = Color.Green;
+    //    count++;
+    //}
+    //else
+    //{
+    //    button4.BackColor = Color.Red;
+    //}
+    //button2.Enabled = false;
+    //button3.Enabled = false;
+}

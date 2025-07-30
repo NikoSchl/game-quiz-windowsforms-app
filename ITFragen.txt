@@ -1,0 +1,10 @@
+Wie werden in C# Blöcke von Anweisungen gebildet?;Durch runde Klammern ();Durch eckige Klammern [];Durch geschweifte Klammern {};3
+Welche der folgenden Kommentare sind in C# gültig?;// Kommentar;## Kommentar;.. Kommentar;1
+Welche Methode wird in C# verwendet, um Daten auf der Konsole auszugeben?;Console.WriteLine;Console.ReadLine;Console.ReadKey;1
+Welche Methode wird in C# verwendet, um Daten auf der Konsole einzulesen?;Console.ReadText;Console.Write;Console.ReadLine;3
+Welche Escapesequenz wird verwendet, um einen Zeilenumbruch zu erzeugen?;\t;\n;\*;2
+Welche Escapesequenz wird verwendet, um einen horizontalen Tabulator zu erzeugen?;\n;\*;\t;3
+Welcher der folgenden Operatoren wird in C# für Zuweisungen verwendet?;:=;==;=;3
+Welcher Operator wird in C# verwendet, um den Rest der Division zweier Ganzzahlen zu berechnen?;/;%;+;2
+Welches Schlüsselwort wird in C# verwendet, um eine bedingte Anweisung einzulesen?;for;if;while;2
+Welche der folgenden Konvertierungsmethoden sind in C# valide, um einen Text (string) in eine Ganzzahl (int) zu konvertieren?;int.Convert();int.FromString();int.Parse();3

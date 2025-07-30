@@ -1,0 +1,3 @@
+Wieviele Bytes umfasst ein Bool-Wert?;1 Byte;4 Byte;8 Byte;1
+Welches ist der Zahlenbereich einer unsigned int Variable bei C#?;-2,147,483,648 bis 2,147,483,647;0 bis 4,294,967,295;-32,768 bis 32,767;2
+Mit welchem Befehl deaktiviert man den Button button1?;button1.Enabled = false;button1.Disabled = true;button1 = enabled;1

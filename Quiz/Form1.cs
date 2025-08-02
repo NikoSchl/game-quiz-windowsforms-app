@@ -29,7 +29,8 @@ namespace Quiz
 
         private Regex _namensRegex;
 
-        private string basePath = @"C:\Users\nico_\Repositories\Quiz";
+        // Trage hier deinen Pfad/Speicherort ein
+        private string basePath = @"";
 
         private string fileCSharpBasicQuiz => Path.Combine(basePath, "ITFragen.txt");
         private string fileCSharpAdvancedQuiz => Path.Combine(basePath, "CSharpErweitertesWissen.txt");
